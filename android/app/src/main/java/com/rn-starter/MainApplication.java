@@ -1,4 +1,4 @@
-package com.smarterinvestment;
+package com.rn-starter;
 
 import android.app.Application;
 
